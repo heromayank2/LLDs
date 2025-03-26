@@ -1,0 +1,10 @@
+11-02-202516:34:19 [INFO] AuthService: User login successful 5
+11-02-202516:34:19 [INFO] PaymentService: Payment failed for orderId=12345
+11-02-202516:34:19 [INFO] AuthService: User login successful 6
+11-02-202516:34:19 [INFO] PaymentService: Payment failed for orderId=12345
+11-02-202516:34:19 [INFO] AuthService: User login successful 7
+11-02-202516:34:19 [INFO] PaymentService: Payment failed for orderId=12345
+11-02-202516:34:19 [INFO] AuthService: User login successful 8
+11-02-202516:34:19 [INFO] PaymentService: Payment failed for orderId=12345
+11-02-202516:34:19 [INFO] AuthService: User login successful 9
+11-02-202516:34:19 [INFO] PaymentService: Payment failed for orderId=12345
